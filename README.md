@@ -38,9 +38,22 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 </p>
 
 
-![snake gif](https://github.com/your-username/your-repository-name/blob/main/snake.gif)
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+<p align="center">
+  <a href="https://github.com/AI-Hadi" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub Profile" height="40" width="40" />
+    Visit my GitHub Profile
+  </a>
+</p>
+
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -64,6 +77,5 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 Whether you want to collaborate or simply say hello, don’t hesitate to reach out! 🚀
 
                                                                                                         Crated by Abdul Hadi ❤️
-
 
 
