@@ -12,6 +12,34 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 
 ---
 
+<div style="display: flex; align-items: center; justify-content: center; height: 100vh; background: #f0f0f0; font-family: sans-serif;">
+  <div style="position: relative; width: 200px; height: 250px;">
+    <div style="width: 100px; height: 100px; background: #333; border-radius: 50%; margin: 0 auto; animation: headMove 2s infinite alternate;"></div>
+    <div style="width: 150px; height: 100px; background: #555; margin: 10px auto; border-radius: 10px; position: relative;">
+      <div style="width: 80%; height: 20px; background: #999; margin: 10px auto 0; border-radius: 5px; animation: typing 1s infinite alternate;"></div>
+      <div style="width: 60%; height: 20px; background: #bbb; margin: 10px auto; border-radius: 5px;"></div>
+    </div>
+    <div style="width: 160px; height: 10px; background: #777; margin: 10px auto; border-radius: 5px;"></div>
+    <div style="width: 100px; height: 50px; background: #222; border-radius: 10px; margin: 10px auto; animation: laptopLight 1.5s infinite alternate;"></div>
+  </div>
+
+  <style>
+    @keyframes headMove {
+      0% { transform: translateY(0); }
+      100% { transform: translateY(5px); }
+    }
+    @keyframes typing {
+      0% { width: 50%; background: #999; }
+      100% { width: 80%; background: #666; }
+    }
+    @keyframes laptopLight {
+      0% { background: #222; }
+      100% { background: #444; }
+    }
+  </style>
+</div>
+
+
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://www.facebook.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" height="30" width="30" /></a>
