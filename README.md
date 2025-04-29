@@ -36,10 +36,7 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/> 
 <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/adobe-photoshop.png" alt="Photoshop" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/anaconda--v2.png" alt="Anaconda" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/fastapi.png" alt="FastAPI" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/streamlit.png" alt="Streamlit" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/adobe-illustrator.png" alt="Illustrator" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/adobe-premiere-pro.png" alt="Premiere Pro" width="40" height="40"/>
@@ -47,8 +44,6 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 <img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40" height="40"/>
 </p>
 
-
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 ---
 <picture>
