@@ -60,14 +60,6 @@ Explore my projects on my [HuggingFace Profile](https://huggingface.co/Hadi12).
 </p>
 
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hadi12&show_icons=true&locale=en&theme=radical" alt="Hadi12 GitHub Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadi12&theme=radical" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hadi12&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
