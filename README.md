@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hadi</h1>
 <h3 align="center">AI Enthusiast | Chatbot Developer | Python Programmer</h3>
 
-**A passionate AI Developer from Pakistan.**
+**Agentic AI Developer.**
 ---------------------------------------------------------------------------------------------------
-I am currently focused on building intelligent, AI-driven chatbots using the latest technologies. I am learning and working with Gemini API, Hugging Face Transformers, LangChain, Streamlit, Gradio, ChromaDB, FAISS, LlamaIndex, and scikit-learn to create advanced and scalable AI solutions.
+I’m an Agentic AI Developer passionate about building systems that do more than just reply — they think, plan, and act.
+I use LangChain, LangGraph, Python, LlamaIndex, and Generative AI to develop intelligent agents with context, memory, and real-world task handling.
+
+From building advanced agentic workflows to designing customer support chatbots — I create AI that acts like a smart, reliable teammate. 🤖💬
+
+My goal?
+To develop human-like chatbots that help, solve, and scale — across support, education, and automation
 ## 👨‍💻 About Me
 
 <p align="center">
