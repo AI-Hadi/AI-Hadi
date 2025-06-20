@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hadi</h1>
-<h3 align="center">AI Enthusiast | Chatbot Developer | Python Programmer</h3>
+<h1 align="center">Hi 👋, I'm Abdul Hadi</h1>
+<h3 align="center">AI Enthusiast | Chatbot Developer | Python </h3>
 
 **Agentic AI Developer.**
 ---------------------------------------------------------------------------------------------------
